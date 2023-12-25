@@ -20,11 +20,8 @@
      width: 30%
    } 
     #image5 {
-      background: linear-gradient(to bottom right, rgba(0, 0, 255, 0.5), rgba(255, 255, 255, 0.5)); 
-      box-shadow: 0 7px 15px rgba(0, 0, 0, 0.5);
-      width: 50%
+      background: linear-gradient(to bottom right, rgba(0, 0, 255, 0.5), rgba(255, 255, 255, 0.5)); box-shadow: 0 7px 15px rgba(0, 0, 0, 0.5);width: 50%
     }
-    
     #image6 {
       filter: invert(1);
       opacity: 0.7;
