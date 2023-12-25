@@ -5,19 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Imitation Assignment</title>
   <style>
-    /* Image 1 */
     #image1 {
       filter: sepia(1);
       border-radius: 50%;
       border: 2px solid black;
       width: 30%
-    }
-    #image2 {
-      filter: grayscale(1);
-      border: 30px solid transparent;
-      border-image-source: url('tic-tac-toe.png'); 
-      border-image:url('tic-tac-toe.png') 50 round;
-      width: 25%
+    }#image2 {filter: grayscale(1); border: 30px solid transparent; border-image-source: url('tic-tac-toe.png');  border-image:url('tic-tac-toe.png') 50 round;width: 25%
     }
    #image3 {
       display: none; /* Hide Image 3, as it's used as a border */
