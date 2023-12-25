@@ -13,7 +13,7 @@
     }#image2 {filter: grayscale(1); border: 30px solid transparent; border-image-source: url('tic-tac-toe.png');  border-image:url('tic-tac-toe.png') 50 round;width: 25%
     }
    #image3 {
-      display: none; /* Hide Image 3, as it's used as a border */
+      display: none;
     }
     #image4 {
      filter: hue-rotate(90deg) drop-shadow(10px -2px 3px #000000);
